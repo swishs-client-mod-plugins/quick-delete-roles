@@ -1,0 +1,7 @@
+{
+  "name": "Quick Delete Roles",
+  "description": "Deletes a role when you select it in the role menu with the delete key down.",
+  "version": "1.0.0",
+  "author": "Swishilicous#3200",
+  "license": "Unlicensed"
+}
